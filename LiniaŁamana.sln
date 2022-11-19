@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiniaŁamana", "LiniaŁamana\LiniaŁamana.csproj", "{4C06EADC-D0BD-4336-9785-464C3BD2081C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C06EADC-D0BD-4336-9785-464C3BD2081C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C06EADC-D0BD-4336-9785-464C3BD2081C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C06EADC-D0BD-4336-9785-464C3BD2081C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C06EADC-D0BD-4336-9785-464C3BD2081C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {721B6CC6-9683-4E12-9DC4-7CC26D57A968}
+	EndGlobalSection
+EndGlobal
